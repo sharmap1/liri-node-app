@@ -1,4 +1,4 @@
-# liri-node-app
+# Liri-node-app
 ## Overview
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface,
 LIRI is a Language Interpretation and Recognition Interface.LIRI will be a command line node app that 
@@ -8,22 +8,18 @@ concerts, and OMDB for movies.
 ## Installation
 The package.json lists dependent node packages, but for your convenvice, these are the ones to install.
 
-```
 ***Config***
 npm install dotenv
-```
-```
+
 ***FS***
 npm install fs
-```
-```
+
 ***Request***
 npm install request
-```
-```
+
 ***Spotify***
 npm install node-spotify-api
-```
+
 ## Motivation 
 I wanted to learn making interactive program which the liri bot is facinating me , and throwing me 
 insights on what a program can do and challenge. This was a huge learning experience which I showed 
@@ -33,7 +29,7 @@ to my family.
 What Each Command Does:
 
 ## concert-this:
-```
+
 This will search the Bands in Town Artist Events API ("https://rest.bandsintown.com/artists/" + artist + 
 "/events?app_id=codingbootcamp") for an artist and render the following information about each event to 
 the terminal:
@@ -41,12 +37,12 @@ the terminal:
     *Name of the venue*
     *Venue location*
     *Date of the Event* 
-```
-* Screenshot:
-<img src="images/bands.jpg" width="350" height="450"> 
+
+***Screenshot:***
+<img src="./images/bands.jpg" width="350" height="450"> 
 
 ## spotify-this-song:
-```
+
 This will show the following information about the song in your terminal/bash window
 
     *Artist(s)*
@@ -55,12 +51,12 @@ This will show the following information about the song in your terminal/bash wi
     *The album that the song is from*
 
 If no song is provided then your program will default to "The Sign" by Ace of Base.
-```
-## Screenshot:
-<img src="images/song.jpg" width="450" height="350"> 
+
+***Screenshot:***
+<img src="./images/song.jpg" width="450" height="350"> 
 
 ## movie-this:
-```
+
 This will output the following information to your terminal/bash window:
 
     * Title of the movie*
@@ -73,35 +69,35 @@ This will output the following information to your terminal/bash window:
     * Actors in the movie*
 
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-```
-## Screenshot:
-<img src="images/movie.jpg" width="450" height="350"> 
+
+***Screenshot:***
+<img src="./images/movie.jpg" width="450" height="350"> 
 
 ## do-what-it-says
-```
-Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call 
-one of LIRI's commands. 
-```
-## Screenshot:
-<img src="images/dowhat.jpg" width="450" height="350"> 
+
+Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of
+LIRI's commands. 
+
+***Screenshot:***
+<img src="./images/dowhat.jpg" width="450" height="350"> 
 
 ## Usage
-```
+
 Launch project from any code editor i.e. Sublime, Atom, VS Code, etc.
 
 Open app in any supported web browser i.e. Chrome, Firefox, Safari, etc.
-```
+
 ## Technologies used
-```
-    * Node.js
-    * javaScript
-    * jQuery
-    * axios
-```
+
+    * Node.js*
+    * javaScript*
+    * jQuery*
+    * axios*
+
 ## Contributing
 ```
-Pull requests are welcome. For major changes, please open an issue first 
-to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you
+would like to change.
 ```
 ## History
 ```
