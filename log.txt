@@ -1,0 +1,2908 @@
+
+---------------------------------------------------
+
+Date: 10/02/2019
+Name: BAM (Brooklyn Academy of Music)
+Country: NY
+City: Brooklyn
+
+---------------------------------------------------
+
+Country: United States
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2019
+Name: BAM (Brooklyn Academy of Music)
+
+---------------------------------------------------
+
+City: Brooklyn
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/06/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+Country: NY
+Date: 10/03/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: BAM (Brooklyn Academy of Music)
+Date: 10/07/2019
+City: Brooklyn
+Country: United States
+Country: NY
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/15/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/17/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/21/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/23/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/24/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/31/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/02/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/04/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/07/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/09/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/10/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/12/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/13/2019
+City: Los Angeles
+Name: The Wiltern
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/14/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/16/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/17/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/19/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/20/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/21/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/23/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/24/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/25/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/01/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/02/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/08/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/11/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+Date: 12/17/2019
+
+---------------------------------------------------
+
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/12/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/16/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/27/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/30/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/01/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/02/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+Date: 02/04/2020
+Name: The London Palladium
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/05/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/08/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/11/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/12/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/13/2020
+Name: The London Palladium
+City: London
+
+---------------------------------------------------
+
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/18/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/19/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/20/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: GRAND REX
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/27/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/03/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2019
+
+---------------------------------------------------
+
+Artist: Ranveer Singh
+Preview: https://p.scdn.co/mp3-preview/866190dc5221d3b14e3e0e6d888834be70c8b7fc?cid=85b216bc8d8d40379a8a12f2e616b48b
+Song: Best Of Ramleela
+Album: Celeb Trivia - Best of Bollywood, Vol. 1
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Stevie B
+Song: Because I Love You
+Preview: null
+Album: Best Of Love Songs
+
+---------------------------------------------------
+
+Artist: XXXTENTACION
+
+---------------------------------------------------
+
+Song: Everybody Dies In Their Nightmares
+Preview: null
+
+---------------------------------------------------
+
+Album: 17
+
+---------------------------------------------------
+
+Song: Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster
+Preview: https://p.scdn.co/mp3-preview/5877b4a58dcd66cf9953dab2618cfc8dbaace3c4?cid=85b216bc8d8d40379a8a12f2e616b48b
+Artist: Eric Clapton
+Album: Unplugged (Deluxe Edition)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Release Year: 1994
+IMDB Rating: 8.5
+Title: The Lion King
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Country: USA
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 93%
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=85b216bc8d8d40379a8a12f2e616b48b
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Invalid Instruction
+
+---------------------------------------------------
+
+Date: 10/02/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/03/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/06/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/07/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/15/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/17/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/21/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/23/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/24/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/31/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/02/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/04/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/07/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/09/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/10/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/12/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/13/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/14/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/16/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/17/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/19/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/20/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/21/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/23/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/24/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/25/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/01/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/02/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/08/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/11/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/17/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/12/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/16/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: The London Palladium
+City: London
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/27/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Country: United Kingdom
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/30/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/01/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/02/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/04/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/05/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/08/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/11/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/12/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/13/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/18/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/19/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/20/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: GRAND REX
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/27/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/03/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/08/2019
+Name: Bryan Adams: Shine A Light 
+City: Guácima
+Country: Costa Rica
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/11/2019
+Name: PLAZA ARENA
+City: Lima
+Country: Peru
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/14/2019
+Name: Bryan Adams: Shine A Light 
+City: Montevideo
+Country: Uruguay
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2019
+Name: Bryan Adams: Shine A LIght
+City: Buenos Aires City
+Country: Argentina
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/18/2019
+Name: Allianz Parque
+City: Sao Paulo
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/19/2019
+Name: Jeunesse Arena
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/22/2019
+Name: Movistar Arena
+City: Movistar Arena
+Country: Chile
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/08/2019
+Name: Messe Klagenfurt 
+City: Klagenfurt Am Wörthersee
+Country: Austria
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/10/2019
+Name: Bryan Adams: Shine A Light Tour
+City: Beograd
+Country: Serbia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/11/2019
+Name: Bryan Adams: Shine A Light
+City: Cluj-napoca
+Country: Romania
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/13/2019
+Name: Bryan Adams: Shine A Light
+City: Skopie
+Country: North Macedonia
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/14/2019
+Name: Bryan Adams: Shine A Light
+City: Plovdiv
+Country: Bulgaria
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/16/2019
+Name: Bryan Adams: Shine A Light Tour
+City: Ataşehir
+Country: Turkey
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/18/2019
+Name: Bryan Adams: Shine A Light Tour
+City: Marousi
+Country: Greece
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/03/2019
+Name: Bryan Adams: Shine A Light
+City: Murcia
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/05/2019
+Name: Bryan Adams: Shine A Light
+City: Sevilla
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/06/2019
+Name: Bryan Adams: Shine A Light 
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: Bryan Adams: Shine A Light
+City: Braga
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/09/2019
+Name: Bryan Adams: Shine A Light
+City: Madrid
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: BEC: Bilbao Exhibition Centre
+City: Bilbao
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/11/2019
+Name: Palau Sant Jordi
+City: Barcelona
+Country: Spain
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/13/2019
+Name: Bryan Adams: Shine A Light
+City: Zürich
+Country: Switzerland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: Mediolanum Forum
+City: Assago
+Country: Italy
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/06/2020
+Name: Saku Suurhall
+City: Tallinn
+Country: Igaunija
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Espoo Metro Areena
+City: Espoo
+Country: Finland
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2020
+Name: Oslo Spektrum Arena
+City: Oslo
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/11/2020
+Name: DNB Arena
+City: Stavanger
+Country: Norway
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2020
+Name: Bryan Adams: Shine A Light
+City: Goteborg
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/14/2020
+Name: Ericsson Globe
+City: Stockholm
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2020
+Name: Malmö Arena
+City: Malmo
+Country: Sweden
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/17/2020
+Name: Forum Copenhagen
+City: Frederiksberg C
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/18/2020
+Name: Forum Horsens
+City: Horsens
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/19/2020
+Name: Forum Horsens
+City: Horsens
+Country: Denmark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/20/2020
+Name: Bryan Adams: Shine A LIght 
+City: Vejle
+Country: Denmark
+
+---------------------------------------------------
+
+Date: 10/02/2019
+
+---------------------------------------------------
+
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Country: NY
+Date: 10/03/2019
+Name: BAM (Brooklyn Academy of Music)
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/05/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/06/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/07/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/10/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/12/2019
+Name: BAM (Brooklyn Academy of Music)
+City: Brooklyn
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/15/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/16/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/17/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/21/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/23/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+Date: 10/24/2019
+Name: The Chicago Theatre
+City: Chicago
+
+---------------------------------------------------
+
+City: Brooklyn
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/27/2019
+Name: The Chicago Theatre
+City: Chicago
+Country: IL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 10/31/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/02/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/04/2019
+Name: Golden Gate Theater
+City: San Francisco
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/07/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/09/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/10/2019
+Name: THE COLOSSEUM AT CAESARS PALACE
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/12/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/13/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/14/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/16/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/17/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/19/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/20/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/21/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/23/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/24/2019
+Name: The Wiltern
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/25/2019
+Name: The Wiltern
+City: Los Angeles
+Country: United States
+Country: CA
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 11/30/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/01/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/02/2019
+Name: Boch Center - Wang Theatre
+City: Boston
+Country: MA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/07/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/08/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/10/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/11/2019
+Name: The Met Philadelphia
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/14/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/15/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/17/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/18/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/19/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2019
+Name: The Fillmore Miami Beach at Jackie Gleason Theater
+City: Miami Beach
+Country: FL
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/12/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/16/2020
+Name: Coliseu dos Recreios
+City: Lisboa
+Country: Portugal
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/27/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/29/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/30/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/01/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/02/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/04/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/05/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/08/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/09/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/11/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/12/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/13/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2020
+Name: The London Palladium
+City: London
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/18/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/19/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/20/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2020
+Name: GRAND REX
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/23/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/25/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/26/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/27/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/29/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/01/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/03/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/04/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/07/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2020
+Name: Grand Rex
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+Title: The Lion King
+
+---------------------------------------------------
+
+Release Year: 1994
+IMDB Rating: 8.5
+Language: English, Swahili, Xhosa, Zulu
+Country: USA
+Rotten Tomatoes Rating: 93%
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+IMDB Rating: 8.5
+Title: The Lion King
+Release Year: 1994
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 93%
+
+---------------------------------------------------
+
+Artist: Eric Clapton
+Song: Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster
+Preview: https://p.scdn.co/mp3-preview/5877b4a58dcd66cf9953dab2618cfc8dbaace3c4?cid=85b216bc8d8d40379a8a12f2e616b48b
+
+---------------------------------------------------
+
+Album: Unplugged (Deluxe Edition)
+
+---------------------------------------------------
+
+Song: Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster
+Artist: Eric Clapton
+Preview: https://p.scdn.co/mp3-preview/5877b4a58dcd66cf9953dab2618cfc8dbaace3c4?cid=85b216bc8d8d40379a8a12f2e616b48b
+Album: Unplugged (Deluxe Edition)
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=85b216bc8d8d40379a8a12f2e616b48b
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Song: I Want It That Way
