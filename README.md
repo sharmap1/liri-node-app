@@ -38,9 +38,8 @@ information about each event to the terminal:
 * Date of the Event 
 
 
-## Screenshot:
- 
- mg src="./images/bands.jpg" width="350" height="450"> 
+## screenshot:
+![bands](https://user-images.githubusercontent.com/52009314/66092854-97ddab80-e542-11e9-8678-b344ee79ec61.JPG)
 
 ## spotify-this-song:
 
@@ -53,9 +52,8 @@ This will show the following information about the song in your terminal/bash wi
 
 If no song is provided then your program will default to **"The Sign" by Ace of Base.**
 
-## Screenshot:
-<img src="./images/song.jpg" width="450" height="350"> 
-
+## screenshot:
+![song](https://user-images.githubusercontent.com/52009314/66095354-1ab73400-e54c-11e9-928e-279caa5be3ee.JPG)
 ## movie-this:
 
 This will output the following information to your terminal/bash window:
@@ -71,16 +69,16 @@ This will output the following information to your terminal/bash window:
 
 If the user doesn't type a movie in, the program will output data for the movie **'Mr. Nobody.'**
 
-## Screenshot:
-<img src="./images/movie.jpg" width="450" height="350"> 
+## screenshot:
+![movie](https://user-images.githubusercontent.com/52009314/66092868-a6c45e00-e542-11e9-8115-c5ec575a04e7.JPG)
 
 ## do-what-it-says
-```
+
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of
 **LIRI's commands.**
-```
-## Screenshot:
-<img src="./images/dowhat.jpg" width="450" height="350"> 
+
+## screenshot:
+![dowhat](https://user-images.githubusercontent.com/52009314/66092858-9d3af600-e542-11e9-8fe6-c7365fdee61e.JPG)
 
 ## Usage
 ```
@@ -116,3 +114,5 @@ Instructor: Joel Stedman & TA s : Nicklas Aaland, Austin Williams, Tassa
 
 ## Copyright
 (c) [2019] [Prasamsha Sharma]
+
+![log](https://user-images.githubusercontent.com/52009314/66092862-a1ffaa00-e542-11e9-8115-e949787886cd.JPG)
