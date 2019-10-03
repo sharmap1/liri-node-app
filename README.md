@@ -80,6 +80,10 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 ## screenshot:
 ![dowhat](https://user-images.githubusercontent.com/52009314/66092858-9d3af600-e542-11e9-8fe6-c7365fdee61e.JPG)
 
+## screenshot:
+Loging all the user command in the text file:
+![log](https://user-images.githubusercontent.com/52009314/66092862-a1ffaa00-e542-11e9-8115-e949787886cd.JPG)
+
 ## Usage
 ```
 Launch project from any code editor i.e. Sublime, Atom, VS Code, etc.
@@ -114,5 +118,3 @@ Instructor: Joel Stedman & TA s : Nicklas Aaland, Austin Williams, Tassa
 
 ## Copyright
 (c) [2019] [Prasamsha Sharma]
-
-![log](https://user-images.githubusercontent.com/52009314/66092862-a1ffaa00-e542-11e9-8115-e949787886cd.JPG)
